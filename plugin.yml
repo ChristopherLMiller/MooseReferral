@@ -1,0 +1,10 @@
+name: MooseReferral
+main: com.moosemanstudios.MooseReferral.MooseReferral
+author: moose517
+version: 0.1
+permissions:
+    mRefer.admin:
+        description:  allows config reload, view pending giveouts
+commands:
+    mRefer:
+        description: everything related to the plugin
